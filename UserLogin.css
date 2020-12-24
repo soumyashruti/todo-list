@@ -1,0 +1,48 @@
+#reghead{
+  color: black;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-bottom: 5px;
+}
+#formreg{
+  margin: 10px;
+  /* padding: 10px; */
+  padding-top: 10px;
+  padding-bottom:10px;
+  background-color: whitesmoke;
+  border: darkgrey 1px solid;
+}
+
+#thirdline{
+  display: flex;
+  margin-top: 15px;
+  
+}
+#fourthline{
+  display: flex;
+  margin-top: 15px;
+}
+
+#btn1{
+  margin-top: 20px;
+  margin-left: 80px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  color: black;
+}
+#btn2 {
+  margin-top: 20px;
+  margin-left: 500px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+  color: black;
+}
+
+
+.form-control{
+  background-color: transparent;
+}
